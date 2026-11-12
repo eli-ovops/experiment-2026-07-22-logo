@@ -1,0 +1,75 @@
+{
+  "video": "62ddb9c839c36900603a30c4cf59f90a.mp4",
+  "duration": 22.0,
+  "resolution": {
+    "width": 720,
+    "height": 1280
+  },
+  "mode": "interval",
+  "frames": [
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0001.jpg",
+      "timestamp": 0.0,
+      "timestamp_formatted": "00:00"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0002.jpg",
+      "timestamp": 1.833,
+      "timestamp_formatted": "00:01"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0003.jpg",
+      "timestamp": 3.667,
+      "timestamp_formatted": "00:03"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0004.jpg",
+      "timestamp": 5.5,
+      "timestamp_formatted": "00:05"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0005.jpg",
+      "timestamp": 7.333,
+      "timestamp_formatted": "00:07"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0006.jpg",
+      "timestamp": 9.167,
+      "timestamp_formatted": "00:09"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0007.jpg",
+      "timestamp": 11.0,
+      "timestamp_formatted": "00:11"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0008.jpg",
+      "timestamp": 12.833,
+      "timestamp_formatted": "00:12"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0009.jpg",
+      "timestamp": 14.667,
+      "timestamp_formatted": "00:14"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0010.jpg",
+      "timestamp": 16.5,
+      "timestamp_formatted": "00:16"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0011.jpg",
+      "timestamp": 18.333,
+      "timestamp_formatted": "00:18"
+    },
+    {
+      "path": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/video/2026-07/62ddb9c839c36900603a30c4cf59f90a_frames/frame_0012.jpg",
+      "timestamp": 20.167,
+      "timestamp_formatted": "00:20"
+    }
+  ],
+  "frame_count": 12,
+  "transcript": [],
+  "text": "",
+  "note": "Use the Read tool to view frame images for visual understanding."
+}
